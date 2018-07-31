@@ -4,7 +4,7 @@ description:       A note for javascript, HTML5, develop culture
 author:            Dekay Kim
 url:               "https://dekaykim.github.io"
 baseurl:           ""
-remote_theme : BlackrockDigital/startbootstrap-clean-blog-jekyll
+remote_theme : mmistakes/minimal-mistakes
 
 # Social Profiles
 github_username:   DekayKim
