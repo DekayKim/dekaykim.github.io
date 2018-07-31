@@ -7,6 +7,7 @@ description: "개발 아카이브 | Developement Archive"
 keyword: "Javascript, ES5, HTML5, WebGL"
 url: "https://dekaykim.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+remote_theme : Huxpro/huxpro.github.io
 
 # Publish posts or collection documents with a future date.
 future: true
