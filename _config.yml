@@ -2,8 +2,9 @@ title:             DKe2's Developement Journal
 email:             widoint@gmail.com
 description:       A note for javascript, HTML5, develop culture
 author:            Dekay Kim
-url:               "http://dekaykim.github.io"
+url:               "https://dekaykim.github.io"
 baseurl:           ""
+remote_theme : BlackrockDigital/startbootstrap-clean-blog-jekyll
 
 # Social Profiles
 github_username:   DekayKim
