@@ -1,23 +1,18 @@
-# Site settings
-title: DKe2 Blog
-SEOTitle: DKe2 Blog
-header-img: img/home-bg.jpg
-email: widoint@gmail.com
-description: "개발 아카이브 | Developement Archive"
-keyword: "Javascript, ES5, HTML5, WebGL"
-url: "https://dekaykim.github.io"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
-remote_theme : Huxpro/huxpro.github.io
+title:             DKe2's Developement Journal
+email:             widoint@gmail.com
+description:       A note for javascript, HTML5, develop culture
+author:            Dekay Kim
+url:               "http://dekaykim.github.io"
+baseurl:           ""
 
-# Publish posts or collection documents with a future date.
-future: true
+# Social Profiles
+github_username:   DekayKim
+facebook_username: Duk Hyun Kim
 
-# SNS settings
-RSS: false
-#weibo_username:     huxpro
-#zhihu_username:     huxpro
-github_username:    DekayKim
-#twitter_username:   huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
-
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
